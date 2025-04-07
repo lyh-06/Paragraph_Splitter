@@ -1,4 +1,4 @@
 # Paragraph_Splitter
-Simple code that splits a piece of text into sentences, numbered by paragraphs, and saves it into an Excel file
+Simple code that splits a piece of text into sentences and saves it into an Excel file, numbering by paragraph
 
 For Josh
